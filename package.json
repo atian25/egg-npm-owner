@@ -1,0 +1,27 @@
+{
+  "name": "egg-npm-owner",
+  "version": "1.0.0",
+  "description": "add egg npm owner quickly",
+  "bin": "./index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "autod": "^2.8.0",
+    "eslint": "^4.0.0",
+    "eslint-config-egg": "^4.2.0",
+    "webstorm-disable-index": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "autod": "autod",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:atian25/egg-npm-owner.git"
+  },
+  "author": "TZ <atian25@qq.com>",
+  "license": "MIT"
+}
